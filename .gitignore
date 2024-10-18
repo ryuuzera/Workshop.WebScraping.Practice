@@ -1,3 +1,4 @@
 .vs
-*.exe
-/bin/*
+**.exe
+**.dll
+/Workshop.WebScraping.Practice/bin/**
