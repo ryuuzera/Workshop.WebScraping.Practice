@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZeKQtcYCHE=",
+  "success": true,
+  "projectFilePath": "D:\\DotnetProjects\\Workshop.WebScraping.Practice\\Workshop.WebScraping.Practice\\Workshop.WebScraping.Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryuu\\.nuget\\packages\\csquery\\1.3.4\\csquery.1.3.4.nupkg.sha512",
+    "C:\\Users\\Ryuu\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'CsQuery 1.3.4' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "CsQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
